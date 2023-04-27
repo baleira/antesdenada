@@ -48,3 +48,7 @@ Esta é a listaxe de engadidos que utilizo no VS Code.
 - [Automatically Order CSS Properties Alphabetically in VS Code](https://betterprogramming.pub/automatically-order-css-properties-alphabetically-in-vs-code-ec52392e5237) [Artigo | ENG]
 - [Cómo ordenar propiedades CSS alfabéticamente en VS Code](https://www.youtube.com/watch?v=xCnbafTKXFc) [Video | ES]
 
+### Recursos para aprender a manexar VS Code
+
+- [VS Code can do that?](https://www.vscodecandothat.com/, unha listaxe de trucos e consellos
+
