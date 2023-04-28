@@ -1,5 +1,18 @@
 ## Configuración
 
+### Tema
+
+Agora utilizo o [Tomorrow Night Eighties
+](https://github.com/microsoft/vscode-themes/tree/main/tomorrow)
+
+Teño que mirar que diferencia hai con [este](https://github.com/chriskempson/tomorrow-theme)
+
+### Fonte
+
+Utilizo [Fira Code](https://github.com/tonsky/FiraCode), unha monoespaciada con ligaduras
+
+### 
+
 ## Extensións
 
 Esta é a listaxe de engadidos que utilizo no VS Code.
@@ -21,6 +34,8 @@ Esta é a listaxe de engadidos que utilizo no VS Code.
 
 ### Auto Rename Tag
 [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag) é un engadido que cando renomeo unha etiqueta HTML, automáticamente renomea o seu par.
+
+Nota: parece que de momento non a preciso, VS Code ten unha preferencia `"editor.linkedEditing": true` que me vale para as etiquetas de HTML
 
 ### VS Code PostCSS Sorting
 
@@ -50,5 +65,6 @@ Esta é a listaxe de engadidos que utilizo no VS Code.
 
 ### Recursos para aprender a manexar VS Code
 
-- [VS Code can do that?](https://www.vscodecandothat.com/, unha listaxe de trucos e consellos
-
+- [VS Code can do that?](https://www.vscodecandothat.com/), unha listaxe de trucos e consellos
+- [VS Code tips](https://www.youtube.com/watch?v=3hcN0yfOAzQ&list=PLvKOuwv1u7bGri7IBkLYhmhMRnvtAlc4N), unha playlist de videos en YouTube
+- [VS Code - You don't need that extension](https://www.roboleary.net/vscode/2020/08/05/dont-need-extensions.html), [VS Code - You don't need that extension part 2](https://www.roboleary.net/2021/11/06/vscode-you-dont-need-that-extension2.html) e [VS Code - You don't need a formatting extension (Prettier and friends)](https://www.roboleary.net/tools/2022/05/18/vscode-you-dont-need-a-formatting-extension-prettier-and-friends.html)
